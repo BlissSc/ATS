@@ -1,5 +1,4 @@
 # Im noob in python so I made this
-# print this wea
 import json
 
 # open data
